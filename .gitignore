@@ -2,3 +2,4 @@ dataset*.csv
 *.txt
 /.venv
 /venv
+*.out
